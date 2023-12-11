@@ -1,0 +1,184 @@
+{
+    "info": [
+        {
+            "autor": "Winston S. Churchill",
+            "frase": "El éxito no es definitivo; el fracaso no es fatal: es la coraje de continuar lo que cuenta."
+        },
+        {
+            "autor": "Ratan Tata",
+            "frase": "No creo en tomar decisiones correctas, tomo decisiones y las hago correctas."
+        },
+        {
+            "autor": "Pau Casals",
+            "frase": "Nosotros debemos pensar que somos una de las hojas de un árbol, y el árbol es toda la humanidad. No podemos vivir los unos sin los otros, sin el árbol."
+        },
+        {
+            "autor": "James Dean",
+            "frase": "Sueña como si fueras a vivir para siempre, vive como si fueras a morir hoy."
+        },
+        {
+            "autor": "Platón",
+            "frase": "Sé amable, porque toda persona que conoces está librando una gran batalla."
+        },
+        {
+            "autor": "Oscar Wilde",
+            "frase": "Sé tú mismo. Todos los demás ya están ocupados."
+        },
+        {
+            "autor": "Alejandro Jodorowsky",
+            "frase": "Lo que doy, me lo doy. Lo que no doy, me lo quito. Nada para mí que no sea para los otros."
+        },
+        {
+            "autor": "Ramón J. Sénder",
+            "frase": "¡Qué pequeñas son mis manos…! En relación con todo lo que la vida ha querido darme."
+        },
+        {
+            "autor": "Robert Louis Stevenson",
+            "frase": "Tanta prisa tenemos por hacer, escribir y dejar oír nuestra voz en el silencio de la eternidad, que olvidamos lo único realmente importante: ¡VIVIR!"
+        },
+        {
+            "autor": "Frank Clark",
+            "frase": "Todo el mundo trata de realizar algo grande, sin darse cuenta de que la vida se compone de cosas pequeñas."
+        },
+        {
+            "autor": "Antoine de Saint-Exupéry",
+            "frase": "La perfección se logra no cuando no hay nada más que añadir, sino cuando no hay nada más que quitar."
+        },
+        {
+            "autor": "Héctor Tassinari",
+            "frase": "Cada hombre puede mejorar su vida mejorando su actitud."
+        },
+        {
+            "autor": "Sophie Soynonov",
+            "frase": "Esperamos que pueda suceder cualquier cosa, y nunca estamos prevenidos para nada."
+        },
+        {
+            "autor": "Séneca",
+            "frase": "La vida es una obra teatral que no importa cuánto haya durado, sino lo bien que haya sido representada."
+        },
+        {
+            "autor": "Arthur Schnitzler",
+            "frase": "Estar preparado es importante, saber esperar lo es aún más, pero aprovechar el momento adecuado es la clave de la vida."
+        },
+        {
+            "autor": "Anónimo",
+            "frase": "Maestro, ¿por qué ahora siento más dolor que antes? – Será porque ahora elegiste la cura en lugar de la anestesia."
+        },
+        {
+            "autor": "Dale Carnegie",
+            "frase": "Recuerda que la felicidad no depende de quién eres o qué tienes; depende únicamente de lo que piensas."
+        },
+        {
+            "autor": "Félicité Robert de Lamennais",
+            "frase": "El pasado es como una lámpara colocada a la entrada del porvenir."
+        },
+        {
+            "autor": "Winston S. Churchill",
+            "frase": "Valor es lo que se necesita para levantarse y hablar, pero también es lo que se requiere para sentarse y escuchar."
+        },
+        {
+            "autor": "Albert Einstein",
+            "frase": "La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación abarca el mundo entero."
+        },
+        {
+            "autor": "Mahatma Gandhi",
+            "frase": "Sé el cambio que quieres ver en el mundo."
+        },
+        {
+            "autor": "Nelson Mandela",
+            "frase": "La mayor gloria no es no caer nunca, sino levantarse siempre."
+        },
+        {
+            "autor": "Steve Jobs",
+            "frase": "Tu tiempo es limitado, así que no lo desperdicies viviendo la vida de alguien más."
+        },
+        {
+            "autor": "Confucio",
+            "frase": "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida."
+        },
+        {
+            "autor": "Paulo Coelho",
+            "frase": "Cuando quieres algo, todo el universo conspira para que realices tu deseo."
+        },
+        {
+            "autor": "Mark Twain",
+            "frase": "No dejes para mañana lo que puedas hacer hoy."
+        },
+        {
+            "autor": "Miguel de Cervantes",
+            "frase": "Confía en el tiempo, que suele dar dulces salidas a muchas amargas dificultades."
+        },
+        {
+            "autor": "Friedrich Nietzsche",
+            "frase": "Lo que no te mata, te hace más fuerte."
+        },
+        {
+            "autor": "Charles Chaplin",
+            "frase": "Un día sin reír es un día perdido."
+        },
+        {
+            "autor": "Gabriel García Márquez",
+            "frase": "No llores porque ya se terminó, sonríe porque sucedió."
+        },
+        {
+            "autor": "Jorge Luis Borges",
+            "frase": "La felicidad es una de las pocas cosas que se duplican cuando se comparten."
+        },
+        {
+            "autor": "Mario Benedetti",
+            "frase": "No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo muerda, aunque el sol se esconda, y se calle el viento, aún hay fuego en tu alma, aún hay vida en tus sueños."
+        },
+        {
+            "autor": "Pablo Neruda",
+            "frase": "Podrán cortar todas las flores, pero no podrán detener la primavera."
+        },
+        {
+            "autor": "Antoine de Saint-Exupéry",
+            "frase": "Solo se ve bien con el corazón, lo esencial es invisible a los ojos."
+        },
+        {
+            "autor": "Ernest Hemingway",
+            "frase": "Nunca confundas movimiento con acción."
+        },
+        {
+            "autor": "Martin Luther King",
+            "frase": "No me preocupa el grito de los violentos, de los corruptos, de los deshonestos, de los sin ética. Lo que más me preocupa es el silencio de los buenos."
+        },
+        {
+            "autor": "Leonardo da Vinci",
+            "frase": "La simplicidad es la máxima sofisticación."
+        },
+        {
+            "autor": "Ana Frank",
+            "frase": "Qué maravilloso es que nadie necesite esperar ni un solo momento antes de comenzar a mejorar el mundo."
+        },
+        {
+            "autor": "Marie Curie",
+            "frase": "No hay que temer a nada en la vida, solo hay que comprender. Ahora es el momento de comprender más para temer menos."
+        },
+        {
+            "autor": "Thomas Edison",
+            "frase": "No he fracasado. He encontrado 10.000 formas que no funcionan."
+        },
+        {
+            "autor": "Benjamin Franklin",
+            "frase": "Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo."
+        },
+        {
+            "autor": "Aristóteles",
+            "frase": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito."
+        },
+        {
+            "autor": "Buda",
+            "frase": "No vivas en el pasado, no imagines el futuro, concéntrate en el presente."
+        },
+        {
+            "autor": "Lao Tse",
+            "frase": "Un viaje de mil millas comienza con el primer paso."
+        },
+        {
+            "autor": "Sócrates",
+            "frase": "Solo sé que no sé nada."
+        }
+  ]
+}
