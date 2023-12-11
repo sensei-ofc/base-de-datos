@@ -39,6 +39,46 @@
         {
             "autor": "Bob Marley",
             "frase": "Hasta que el color de la piel de un hombre no tenga más significado que el color de sus ojos, habrá guerra."
+        },
+        {
+            "autor": "George Orwell",
+            "frase": "La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza."
+        },
+        {
+            "autor": "Bob Marley",
+            "frase": "Hasta que el color de la piel de un hombre no tenga más significado que el color de sus ojos, habrá guerra."
+        },
+        {
+            "autor": "Isaac Asimov",
+            "frase": "La violencia es el último refugio del incompetente."
+        },
+        {
+            "autor": "Albert Camus",
+            "frase": "La paz es la única batalla que vale la pena librar."
+        },
+        {
+            "autor": "John Lennon",
+            "frase": "Imagina que no hay países, no es difícil de hacer. Nada por lo que matar o morir, ni tampoco religión. Imagina a toda la gente viviendo la vida en paz."
+        },
+        {
+            "autor": "Desmond Tutu",
+            "frase": "Si quieres hacer la paz con tu enemigo, tienes que trabajar con tu enemigo. Entonces él se vuelve tu compañero."
+        },
+        {
+            "autor": "Dalai Lama",
+            "frase": "La paz mundial comienza con la paz interior."
+        },
+        {
+            "autor": "Malala Yousafzai",
+            "frase": "No queremos la guerra. Queremos educación. Queremos paz."
+        },
+        {
+            "autor": "Eleanor Roosevelt",
+            "frase": "Nadie ganó la última guerra y nadie ganará la próxima."
+        },
+        {
+            "autor": "Ernest Hemingway",
+            "frase": "Nunca pienses que una guerra, por necesaria o justificada que parezca, deja de ser un crimen."
         }
     ]
 }
