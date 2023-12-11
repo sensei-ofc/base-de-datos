@@ -1,0 +1,44 @@
+{
+    "info": [
+        {
+            "autor": "Simón Bolívar",
+            "frase": "La guerra es la obra de arte de los militares, la coronación de su formación, el broche dorado de su profesión. No han sido creados para brillar en la paz."
+        },
+        {
+            "autor": "Sun Tzu",
+            "frase": "La guerra es de vital importancia para el Estado; es el dominio de la vida o de la muerte, el camino hacia la supervivencia o la pérdida del Imperio: hay que manejarla bien. No reflexionar seriamente sobre todo lo que le concierne es dar prueba de una culpable indiferencia en lo que respecta a la conservación o pérdida de lo que nos es más querido; y ello no debe ocurrir entre nosotros."
+        },
+        {
+            "autor": "Napoleón",
+            "frase": "La guerra es una invasión a gran escala, la invasión es una guerra a pequeña escala."
+        },
+        {
+            "autor": "Albert Einstein",
+            "frase": "No sé con qué armas se luchará en la tercera guerra mundial, pero en la cuarta guerra mundial usarán palos y piedras."
+        },
+        {
+            "autor": "Mahatma Gandhi",
+            "frase": "No hay camino para la paz, la paz es el camino."
+        },
+        {
+            "autor": "Martin Luther King",
+            "frase": "La paz no es simplemente la ausencia de guerra, sino la presencia de justicia."
+        },
+        {
+            "autor": "John F. Kennedy",
+            "frase": "La humanidad debe poner fin a la guerra, o la guerra pondrá fin a la humanidad."
+        },
+        {
+            "autor": "Ernest Hemingway",
+            "frase": "Nunca pienses que una guerra, por necesaria o justificada que parezca, deja de ser un crimen."
+        },
+        {
+            "autor": "George Orwell",
+            "frase": "La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza."
+        },
+        {
+            "autor": "Bob Marley",
+            "frase": "Hasta que el color de la piel de un hombre no tenga más significado que el color de sus ojos, habrá guerra."
+        }
+    ]
+}
