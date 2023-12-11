@@ -179,6 +179,206 @@
         {
             "autor": "Sócrates",
             "frase": "Solo sé que no sé nada."
+        },
+        {
+            "autor": "René Descartes",
+            "frase": "Pienso, luego existo."
+        },
+        {
+            "autor": "William Shakespeare",
+            "frase": "Ser o no ser, esa es la cuestión."
+        },
+        {
+            "autor": "Simón Bolívar",
+            "frase": "La libertad no se implora, se conquista con el filo del acero."
+        },
+        {
+            "autor": "Julio César",
+            "frase": "Vine, vi, vencí."
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "frase": "El progreso consiste en renovarse."
+        },
+        {
+            "autor": "Friedrich Nietzsche",
+            "frase": "El que tiene un porqué para vivir se puede enfrentar a todos los cómos."
+        },
+        {
+            "autor": "Sigmund Freud",
+            "frase": "Uno es dueño de lo que calla y esclavo de lo que habla."
+        },
+        {
+            "autor": "Voltaire",
+            "frase": "No estoy de acuerdo con lo que dices, pero defenderé con mi vida tu derecho a expresarlo."
+        },
+        {
+            "autor": "Mahatma Gandhi",
+            "frase": "Ojo por ojo y todo el mundo acabará ciego."
+        },
+        {
+            "autor": "Albert Einstein",
+            "frase": "La locura es hacer lo mismo una y otra vez esperando obtener resultados diferentes."
+        },
+        {
+            "autor": "Martin Luther King",
+            "frase": "Tengo un sueño, un solo sueño, seguir soñando. Soñar con la libertad, soñar con la justicia, soñar con la igualdad y ojalá ya no tuviera necesidad de soñarlas."
+        },
+        {
+            "autor": "Nelson Mandela",
+            "frase": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+        },
+        {
+            "autor": "Steve Jobs",
+            "frase": "La innovación es lo que distingue a un líder de un seguidor."
+        },
+        {
+            "autor": "Confucio",
+            "frase": "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida."
+        },
+        {
+            "autor": "Paulo Coelho",
+            "frase": "Cuando quieres algo, todo el universo conspira para que realices tu deseo."
+        },
+        {
+            "autor": "Mark Twain",
+            "frase": "No dejes para mañana lo que puedas hacer hoy."
+        },
+        {
+            "autor": "Miguel de Cervantes",
+            "frase": "Confía en el tiempo, que suele dar dulces salidas a muchas amargas dificultades."
+        },
+        {
+            "autor": "Charles Chaplin",
+            "frase": "Un día sin reír es un día perdido."
+        },
+        {
+            "autor": "Gabriel García Márquez",
+            "frase": "No llores porque ya se terminó, sonríe porque sucedió."
+        },
+        {
+            "autor": "Jorge Luis Borges",
+            "frase": "La felicidad es una de las pocas cosas que se duplican cuando se comparten."
+        },
+        {
+            "autor": "Mario Benedetti",
+            "frase": "No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo muerda, aunque el sol se esconda, y se calle el viento, aún hay fuego en tu alma, aún hay vida en tus sueños."
+        },
+        {
+            "autor": "Pablo Neruda",
+            "frase": "Podrán cortar todas las flores, pero no podrán detener la primavera."
+        },
+        {
+            "autor": "Antoine de Saint-Exupéry",
+            "frase": "Solo se ve bien con el corazón, lo esencial es invisible a los ojos."
+        },
+        {
+            "autor": "Ernest Hemingway",
+            "frase": "Nunca confundas movimiento con acción."
+        },
+        {
+            "autor": "Leonardo da Vinci",
+            "frase": "La simplicidad es la máxima sofisticación."
+        },
+        {
+            "autor": "Ana Frank",
+            "frase": "Qué maravilloso es que nadie necesite esperar ni un solo momento antes de comenzar a mejorar el mundo."
+        },
+        {
+            "autor": "Marie Curie",
+            "frase": "No hay que temer a nada en la vida, solo hay que comprender. Ahora es el momento de comprender más para temer menos."
+        },
+        {
+            "autor": "Thomas Edison",
+            "frase": "No he fracasado. He encontrado 10.000 formas que no funcionan."
+        },
+        {
+            "autor": "Benjamin Franklin",
+            "frase": "Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo."
+        },
+        {
+            "autor": "Aristóteles",
+            "frase": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito."
+        },
+        {
+            "autor": "Buda",
+            "frase": "No vivas en el pasado, no imagines el futuro, concéntrate en el presente."
+        },
+        {
+            "autor": "Lao Tse",
+            "frase": "Un viaje de mil millas comienza con el primer paso."
+        },
+        {
+            "autor": "Sócrates",
+            "frase": "Solo sé que no sé nada."
+        },
+        {
+            "autor": "René Descartes",
+            "frase": "Pienso, luego existo."
+        },
+        {
+            "autor": "William Shakespeare",
+            "frase": "Ser o no ser, esa es la cuestión."
+        },
+        {
+            "autor": "Simón Bolívar",
+            "frase": "La libertad no se implora, se conquista con el filo del acero."
+        },
+        {
+            "autor": "Julio César",
+            "frase": "Vine, vi, vencí."
+        },
+        {
+            "autor": "Miguel de Unamuno",
+            "frase": "El progreso consiste en renovarse."
+        },
+        {
+            "autor": "Friedrich Nietzsche",
+            "frase": "El que tiene un porqué para vivir se puede enfrentar a todos los cómos."
+        },
+        {
+            "autor": "Sigmund Freud",
+            "frase": "Uno es dueño de lo que calla y esclavo de lo que habla."
+        },
+        {
+            "autor": "Voltaire",
+            "frase": "No estoy de acuerdo con lo que dices, pero defenderé con mi vida tu derecho a expresarlo."
+        },
+        {
+            "autor": "Mahatma Gandhi",
+            "frase": "Ojo por ojo y todo el mundo acabará ciego."
+        },
+        {
+            "autor": "Albert Einstein",
+            "frase": "La locura es hacer lo mismo una y otra vez esperando obtener resultados diferentes."
+        },
+        {
+            "autor": "Martin Luther King",
+            "frase": "Tengo un sueño, un solo sueño, seguir soñando. Soñar con la libertad, soñar con la justicia, soñar con la igualdad y ojalá ya no tuviera necesidad de soñarlas."
+        },
+        {
+            "autor": "Nelson Mandela",
+            "frase": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+        },
+        {
+            "autor": "Steve Jobs",
+            "frase": "La innovación es lo que distingue a un líder de un seguidor."
+        },
+        {
+            "autor": "Confucio",
+            "frase": "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida."
+        },
+        {
+            "autor": "Paulo Coelho",
+            "frase": "Cuando quieres algo, todo el universo conspira para que realices tu deseo."
+        },
+        {
+            "autor": "Mark Twain",
+            "frase": "No dejes para mañana lo que puedas hacer hoy."
+        },
+        {
+            "autor": "Miguel de Cervantes",
+            "frase": "Confía en el tiempo, que suele dar dulces salidas a muchas amargas dificultades."
         }
   ]
 }
