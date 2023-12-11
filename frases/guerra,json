@@ -79,6 +79,242 @@
         {
             "autor": "Ernest Hemingway",
             "frase": "Nunca pienses que una guerra, por necesaria o justificada que parezca, deja de ser un crimen."
-        }
+        },
+        {
+            "autor": "George Patton",
+            "frase": "La guerra no se gana con buenos deseos."
+        },
+        {
+            "autor": "Ernesto Che Guevara",
+            "frase": "La revolución se lleva en el corazón, no en la boca para vivir de ella."
+        },
+        {
+            "autor": "Winston Churchill",
+            "frase": "Nunca tantos debieron tanto a tan pocos."
+        },
+        {
+            "autor": "Adolf Hitler",
+            "frase": "La guerra es la única forma de mantener a las naciones en contacto."
+        },
+        {
+            "autor": "Franklin D. Roosevelt",
+            "frase": "La única cosa que tenemos que temer es el miedo mismo."
+        },
+        {
+            "autor": "Charles de Gaulle",
+            "frase": "Francia ha perdido una batalla, pero Francia no ha perdido la guerra."
+        },
+        {
+            "autor": "José Martí",
+            "frase": "La guerra no es más que un asesinato en masa, y el asesinato no es progreso."
+        },
+        {
+            "autor": "Mao Zedong",
+            "frase": "La guerra es la continuación de la política por otros medios."
+        },
+        {
+            "autor": "Dwight D. Eisenhower",
+            "frase": "La guerra es una enfermedad terrible, como el tifus."
+        },
+        {
+            "autor": "Fidel Castro",
+            "frase": "La historia me absolverá."
+        },
+        {
+            "autor": "Isaac Asimov",
+            "frase": "La violencia es el último refugio del incompetente."
+        },
+        {
+            "autor": "Albert Camus",
+            "frase": "La paz es la única batalla que vale la pena librar."
+        },
+        {
+            "autor": "John Lennon",
+            "frase": "Imagina que no hay países, no es difícil de hacer. Nada por lo que matar o morir, ni tampoco religión. Imagina a toda la gente viviendo la vida en paz."
+        },
+        {
+            "autor": "Desmond Tutu",
+            "frase": "Si quieres hacer la paz con tu enemigo, tienes que trabajar con tu enemigo. Entonces él se vuelve tu compañero."
+        },
+        {
+            "autor": "Dalai Lama",
+            "frase": "La paz mundial comienza con la paz interior."
+        },
+        {
+            "autor": "Malala Yousafzai",
+            "frase": "No queremos la guerra. Queremos educación. Queremos paz."
+        },
+        {
+            "autor": "Eleanor Roosevelt",
+            "frase": "Nadie ganó la última guerra y nadie ganará la próxima."
+        },
+        {
+            "autor": "Ernest Hemingway",
+            "frase": "Nunca pienses que una guerra, por necesaria o justificada que parezca, deja de ser un crimen."
+        },
+        {
+            "autor": "George Orwell",
+            "frase": "La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza."
+        },
+        {
+            "autor": "Bob Marley",
+            "frase": "Hasta que el color de la piel de un hombre no tenga más significado que el color de sus ojos, habrá guerra."
+        },
+        {
+            "autor": "George Patton",
+            "frase": "La guerra no se gana con buenos deseos."
+        },
+        {
+            "autor": "Ernesto Che Guevara",
+            "frase": "La revolución se lleva en el corazón, no en la boca para vivir de ella."
+        },
+        {
+            "autor": "Winston Churchill",
+            "frase": "Nunca tantos debieron tanto a tan pocos."
+        },
+        {
+            "autor": "Adolf Hitler",
+            "frase": "La guerra es la única forma de mantener a las naciones en contacto."
+        },
+        {
+            "autor": "Franklin D. Roosevelt",
+            "frase": "La única cosa que tenemos que temer es el miedo mismo."
+        },
+        {
+            "autor": "Charles de Gaulle",
+            "frase": "Francia ha perdido una batalla, pero Francia no ha perdido la guerra."
+        },
+        {
+            "autor": "José Martí",
+            "frase": "La guerra no es más que un asesinato en masa, y el asesinato no es progreso."
+        },
+        {
+            "autor": "Mao Zedong",
+            "frase": "La guerra es la continuación de la política por otros medios."
+        },
+        {
+            "autor": "Dwight D. Eisenhower",
+            "frase": "La guerra es una enfermedad terrible, como el tifus."
+        },
+        {
+            "autor": "Fidel Castro",
+            "frase": "La historia me absolverá."
+        },
+        {
+            "autor": "Benito Mussolini",
+            "frase": "La guerra es a los hombres lo que la maternidad a las mujeres."
+        },
+        {
+            "autor": "Abraham Lincoln",
+            "frase": "La guerra no es más que una masacre de hombres que no se conocen, para provecho de otros que sí se conocen pero que no se masacran."
+        },
+        {
+            "autor": "Simone de Beauvoir",
+            "frase": "La guerra es una locura cuyo misterio sólo comprenden los que la hacen."
+        },
+        {
+            "autor": "George Bernard Shaw",
+            "frase": "La guerra es un juego en el que no importa quién tiene la razón, sino quién tiene el poder."
+        },
+        {
+            "autor": "Jean-Paul Sartre",
+            "frase": "Cuando los ricos financian la guerra, es el pobre el que muere."
+        },
+        {
+            "autor": "George Washington",
+            "frase": "La guerra es una política sin principios."
+        },
+        {
+            "autor": "León Tolstói",
+            "frase": "La guerra es tan injusta como inútil."
+        },
+        {
+            "autor": "Bertrand Russell",
+            "frase": "La guerra no determina quién tiene la razón, sino quién queda."
+        },
+        {
+            "autor": "Albert Schweitzer",
+            "frase": "La guerra es una enfermedad como el tifus."
+        },
+        {
+            "autor": "Gandhi",
+            "frase": "No hay camino para la paz, la paz es el camino."
+        },
+        {
+            "autor": "Martin Luther King",
+            "frase": "La paz no es simplemente la ausencia de guerra, sino la presencia de justicia."
+        },
+        {
+            "autor": "John F. Kennedy",
+            "frase": "Los problemas básicos que encaran hoy al mundo no son susceptibles de una solución militar."
+        },
+        {
+            "autor": "Pablo Picasso",
+            "frase": "La inspiración existe, pero tiene que encontrarte trabajando."
+        },
+        {
+            "autor": "Napoleón Hill",
+            "frase": "Cualquiera que sea la mente del hombre puede concebir y creer, puede lograr."
+        },
+        {
+            "autor": "Havelock Ellis",
+            "frase": "No hay nada que la guerra haya conseguido que no hubiésemos podido conseguirlo sin ella."
+        },
+        {
+            "autor": "John Adams",
+            "frase": "Grande es la culpa de una guerra innecesaria."
+        },
+        {
+            "autor": "Walter Goodman",
+            "frase": "La idea de una guerra nuclear es inquietante."
+        },
+        {
+            "autor": "William Hooke",
+            "frase": "Un día de batalla es un día de cosecha para el diablo."
+        },
+        {
+            "autor": "Platón",
+            "frase": "Lo que no te mata, te hace más fuerte."
+        },
+        {
+            "autor": "Aristóteles",
+            "frase": "No es suficiente ganar la guerra, es más importante organizar la paz."
+        },
+        {
+            "autor": "Julio César",
+            "frase": "La guerra es una invasión a gran escala, la invasión es una guerra a pequeña escala."
+        },
+        {
+            "autor": "Simón Bolívar",
+            "frase": "La marca de un gran gobernante no es su habilidad para hacer la guerra, sino para conseguir la paz."
+        },
+        {
+            "autor": "George Orwell",
+            "frase": "La gente duerme pacíficamente en sus camas por la noche sólo porque existen hombres duros dispuestos a usar la violencia a favor de ellos."
+        },
+        {
+            "autor": "Howard Zinn",
+            "frase": "Un efecto seguro de la guerra es disminuir la libertad de expresión."
+        },
+        {
+            "autor": "Monica Fairview",
+            "frase": "La guerra es la obra de arte de los militares, la coronación de su formación, el broche dorado de su profesión. No han sido creados para brillar en la paz."
+        },
+        {
+            "autor": "Carl P. G. von Clausewitz",
+            "frase": "La guerra no es un fenómeno independiente, sino la continuación de la política por diferentes medios."
+        },
+        {
+            "autor": "G.K. Chesterton",
+            "frase": "El verdadero soldado no lucha porque odia lo que tiene delante, sino porque ama lo que tiene detrás."
+        },
+        {
+            "autor": "Robert Louis Stevenson",
+            "frase": "Tanta prisa tenemos por hacer, escribir y dejar oír nuestra voz en el silencio de la eternidad, que olvidamos lo único realmente importante: ¡VIVIR!"
+        },
+        {
+            "autor": "Frank Clark",
+            "frase": "Todo el mundo trata de realizar algo grande, sin darse cuenta de que la vida se compone de cosas pequeñas."
+        },
     ]
 }
