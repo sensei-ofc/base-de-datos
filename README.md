@@ -18,11 +18,11 @@ Para garantizar la integridad y seguridad de nuestros datos, te pedimos que siga
 
 3. **Prohibición de Modificación:** Está estrictamente prohibido modificar el contenido de los archivos o crear trabajos derivados.
 
-4. **Informe de Problemas de Seguridad:** Si descubres vulnerabilidades de seguridad u otros problemas, por favor, notifícalos de manera responsable a nuestro equipo de seguridad mediante [security@example.com](mailto:security@example.com).
+4. **Informe de Problemas de Seguridad:** Si descubres vulnerabilidades de seguridad u otros problemas, por favor, notifícalos de manera responsable a nuestro equipo de seguridad mediante [SenseiOfc](iincognito894@gmail.com).
 
 ## Información de Contacto
 
-Para consultas o solicitudes relacionadas con el uso de estos archivos, ponte en contacto con nuestro equipo en [info@example.com](mailto:info@example.com).
+Para consultas o solicitudes relacionadas con el uso de estos archivos, ponte en contacto con nuestro equipo en [soporte_sensei](iincognito894@gmail.com).
 
 ## Conclusión
 
