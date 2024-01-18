@@ -1,4 +1,3 @@
-// prefijos.js
 module.exports = {
   '+1': 'Estados Unidos',
   '+1': 'Canadá',
